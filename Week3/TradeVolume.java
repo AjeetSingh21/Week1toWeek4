@@ -113,5 +113,6 @@ public class TradeVolume {
         Trade[] merged = mergeLists(morning, afternoon);
         System.out.println("Merged List: " + Arrays.toString(merged));
         System.out.println("Total Volume: " + totalVolume(merged));
+//        committed issues
     }
 }
