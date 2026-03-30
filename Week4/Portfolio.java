@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Portfol0io {
+public class Portfolio {
     static class Asset {
         String name;
         double returnRate;
